@@ -24,19 +24,19 @@
 + `<list>`
   + [最简例子 (Simple)](http://dotwe.org/vue/bef3519b9a00f94a0fc4a127e9b43405)
   + [使用 loadmore (Use loadmore)](http://dotwe.org/vue/6f340bb6f5dc19d53b7ce26cfc420787)
-  + [使用 `<header>` (Use `<header>`)] ()
-  + [使用 `<loading>` (Use `<loading>`)] ()
-  + [使用 `<refresh>` (Use `<refresh>`)] ()
+  + [使用 `<header>` (Use `<header>`)]-()
+  + [使用 `<loading>` (Use `<loading>`)]-()
+  + [使用 `<refresh>` (Use `<refresh>`)]-()
 + `<scroller>`
   + [最简例子 (Simple)](http://dotwe.org/vue/563b9cf57ec3463592c5590abcd259fc)
   + [横滚 (Horizontal)](http://dotwe.org/vue/c93cededd4ae439c5d4d6892c113af72)
   + [使用 loadmore (Use loadmore)](http://dotwe.org/vue/3c61f3d1e4c6b62f4bbddce65a1ffe72)
-  + [使用 `<loading>` (Use `<loading>`)] ()
-  + [使用 `<refresh>` (Use `<refresh>`)] ()
+  + [使用 `<loading>` (Use `<loading>`)]-()
+  + [使用 `<refresh>` (Use `<refresh>`)]-()
 + `<slider>`
   + [最简例子 (Simple)](http://dotwe.org/vue/90975eafba77caee11521ff94b4a51e3)
   + [自动播放 (Autoplay)](http://dotwe.org/vue/8964d77f68a3d0eb170cb88751d9add7)
-  + [自定义 indicator (Custom indicator)] ()
+  + [自定义 indicator (Custom indicator)]-()
 + `<switch>`
   + [最简例子 (Simple)](http://dotwe.org/vue/d12f3515d1ee577d4c11dd0c9a15485b)
   + [checked & disabled](http://dotwe.org/vue/f7903c8299789ed1367cfd661c3e8d02)
@@ -78,9 +78,9 @@
 + 页面导航 (navigator)
   + [`jump` & `back`](http://dotwe.org/vue/89ea5081fef08a600b75752c19fa52cf)
 + 剪切板 (clipboard)
-  + [基本用法 (Simple)] ()
+  + [基本用法 (Simple)]-()
 + 本地存储 (storage)
-  + [基本用法 (Simple)] ()
+  + [基本用法 (Simple)]-()
 + 选择器 (picker)
   + [普通选项 (Options)](http://dotwe.org/vue/2b41249916567fcecc6b1d6281232cd6)
   + [日期 (Date)](http://dotwe.org/vue/8c4f40accafb8ae6365a2e6619580e5a)
@@ -88,11 +88,11 @@
 
 ## 布局 (Layouts)
 
-+ [三角形 (Triangles)] ()
++ [三角形 (Triangles)]-()
 + [多标签布局 (multiple labels)](http://dotwe.org/vue/f640a056edab078d23d019a981eaaae0)
 
 ## 样式 (Styles)
 
-+ [阴影 (box-shadow)] ()
++ [阴影 (box-shadow)]-()
 
 ## Vue.js 的语法特性 (Vue.js Features)

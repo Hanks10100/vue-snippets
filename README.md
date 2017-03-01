@@ -6,13 +6,17 @@
 
 ## 组件 (Components)
 
-+ [`<div>`](http://dotwe.org/vue/0d82873994de7626b853cb0a97b7431d)
++ `<div>`
+  + [最简例子 (Simple)](http://dotwe.org/vue/0d82873994de7626b853cb0a97b7431d)
   + [`<div>` 中不能写文本 (Can't write text node within `<div>`)](http://dotwe.org/vue/ac2349905fa09fd6ba3148ab64f428dc)
-+ [`<text>`](http://dotwe.org/vue/c72256d520c9303c348f3ce1c7daf246)
++ `<text>`
+  + [最简例子 (Simple)](http://dotwe.org/vue/c72256d520c9303c348f3ce1c7daf246)
   + [使用 `lines` 属性 (Use `lines` property)](http://dotwe.org/vue/17925761ce71f04f55b2cbd11b715565)
-+ [`<image>`](http://dotwe.org/vue/41b0009dacffba0198f5ac535448bec1)
++ `<image>`
+  + [最简例子 (Simple)](http://dotwe.org/vue/41b0009dacffba0198f5ac535448bec1)
   + [使用 `resize` 属性 (Use `resize` property)](http://dotwe.org/vue/67686fd2546e41683eb8eee01640aae3)
-+ [`<a>`](http://dotwe.org/vue/a6a6ab6d3807349daae32138585d7153)
++ `<a>`
+  + [最简例子 (Simple)](http://dotwe.org/vue/a6a6ab6d3807349daae32138585d7153)
 
 ## 模块 (Modules)
 

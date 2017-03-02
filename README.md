@@ -96,3 +96,7 @@
 + [阴影 (box-shadow)]-()
 
 ## Vue.js 的语法特性 (Vue.js Features)
+
+## 其他 (Others)
+
++ [Support WebAssembly ?](http://dotwe.org/vue/dc146caf0acc08c471a155d2e3d27444)

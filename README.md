@@ -94,6 +94,7 @@
 ## 样式 (Styles)
 
 + [阴影 (box-shadow)](http://dotwe.org/vue/e40ee07bcd8769298c084112721a0259)
+  + [multiple box](http://dotwe.org/vue/004c0766819977c6cc2bf8592ed3bb32)
 
 ## Vue.js 的语法特性 (Vue.js Features)
 

@@ -88,7 +88,7 @@
 
 ## 布局 (Layouts)
 
-+ [三角形 (Triangles)]-()
++ [三角形 (Triangles)](http://dotwe.org/vue/1055f6f9250b197c9ed3fffbd1ae2b89)
 + [多标签布局 (multiple labels)](http://dotwe.org/vue/f640a056edab078d23d019a981eaaae0)
 
 ## 样式 (Styles)

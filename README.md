@@ -102,3 +102,9 @@
 
 + [Support WebAssembly ?](http://dotwe.org/vue/dc146caf0acc08c471a155d2e3d27444)
 + [骨骼动画 (Skeleton animation)](http://dotwe.org/weex/133a36671d6651c91de274df02ed2b89)
++ 递归组件 Recursive Components
+  + [简单递归](http://dotwe.org/vue/446c165907a5ae9edfab508c5063b722)
+  + [多层递归](http://dotwe.org/vue/9ab8cd715a13abde74a46ef0b54e977f)
+  + [超深层递归](http://dotwe.org/vue/37b2d7752b9fe67bf7f6e7accec3ec27)
+  + [多区块递归](http://dotwe.org/vue/4c5704c574a61c0a99785e35fcab9acd)
+  + [超深层多区块递归](http://dotwe.org/vue/f6cd92249532a279f01dcfe6cac173b5)

@@ -100,6 +100,7 @@
 
 ## 其他 (Others)
 
++ [BroadcastChannel](http://dotwe.org/vue/c0204f16655ccb0ecd3491e3818650d6)
 + [Support WebAssembly ?](http://dotwe.org/vue/dc146caf0acc08c471a155d2e3d27444)
 + [骨骼动画 (Skeleton animation)](http://dotwe.org/weex/133a36671d6651c91de274df02ed2b89)
 + 递归组件 (Recursive Components)

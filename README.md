@@ -72,7 +72,7 @@
   + [基本用法 (Simple)](http://dotwe.org/vue/fe759defe8a60654633d3453d3dfde48)
 + 元素相关 (dom)
   + [`getComponentRect`](http://dotwe.org/vue/9dfef337f96127a121f199f4d389c654)
-  + [`scrollToElement`](http://dotwe.org/vue/d44685798cc62b7a627982908c10ba64)
+  + [`scrollToElement`](http://dotwe.org/vue/54464de1ca817ac7290fdb08df2fbc92)
 + 动画 (animation)
   + [基本用法 (Simple)](http://dotwe.org/vue/c874958a49e10706aa8aea6c63030ff1)
 + 页面导航 (navigator)

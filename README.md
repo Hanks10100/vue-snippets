@@ -58,8 +58,8 @@
   + [`start`, `pause`, `finish`, `fail` events](http://dotwe.org/vue/2246907a52dc3b48e281f7d5ea4bc816)
 + `<web>`
   + [最简例子 (Simple)](http://dotwe.org/vue/d5754bc4b7d5cba92ae7e75a776a7eba)
-+ `<richtext>` 富文本
-  + [example 1](http://dotwe.org/vue/2abea647634b00f7ea17a83b01250796)
++ `<richtext>` 富文本 
+  + [example 1](http://dotwe.org/vue/9845c903696ad41a55795bec7c5df2c4)
   + [example 2](http://dotwe.org/vue/8e3c274f5cae4a391a14ac81c890325f)
 
 ## 模块 (Modules)
